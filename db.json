@@ -147,7 +147,7 @@
         "num_telefono": "555-5678",
         "estado_reserva": "Pendiente",
         "total_reserva": 150,
-        "hora_reservada": "11:30",
+        "hora_reservada": "11:00",
         "fecha_reservada": "2024-06-02"
     },
     {
@@ -169,7 +169,7 @@
         "num_telefono": "555-4321",
         "estado_reserva": "Confirmada",
         "total_reserva": 250,
-        "hora_reservada": "14:30",
+        "hora_reservada": "14:00",
         "fecha_reservada": "2024-06-04"
     },
     {
@@ -202,7 +202,7 @@
         "num_telefono": "555-1235",
         "estado_reserva": "Cancelada",
         "total_reserva": 180,
-        "hora_reservada": "18:30",
+        "hora_reservada": "18:00",
         "fecha_reservada": "2024-06-07"
     },
     {
@@ -235,7 +235,7 @@
         "num_telefono": "555-4322",
         "estado_reserva": "Pendiente",
         "total_reserva": 220,
-        "hora_reservada": "21:30",
+        "hora_reservada": "21:00",
         "fecha_reservada": "2024-06-10"
     }
 ]

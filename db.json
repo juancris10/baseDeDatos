@@ -238,5 +238,10 @@
         "hora_reservada": "21:00",
         "fecha_reservada": "2024-06-10"
     }
-]
+],
+  "Cuenta":{ "sub" : "auth0|6658e758b7565e9fae9981bd",
+              "Email ":"juancrismedina79@gmail.com" ,
+              "Contraseña" : "dkakd",
+              "Rol" : "Propietario"
+  }
 }

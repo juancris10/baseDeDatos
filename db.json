@@ -1,27 +1,29 @@
-{
-    key: "1",
-    Nombre_Cancha: "Cancha A",
-    Dimensiones: "100x50",
-    Especificaciones: "Cesped sintético",
-    Deporte: "Futbol",
-    Precio_Cancha: "$1000",
-    Imagenes_Cancha: "https://via.placeholder.com/150",
+[
+  {
+    "key": "1",
+    "Nombre_Cancha": "Cancha A",
+    "Dimensiones": "100x50",
+    "Especificaciones": "Cesped sintético",
+    "Deporte": "Futbol",
+    "Precio_Cancha": "$1000",
+    "Imagenes_Cancha": "https://via.placeholder.com/150"
   },
   {
-    key: "2",
-    Nombre_Cancha: "Cancha B",
-    Dimensiones: "80x40",
-    Especificaciones: "Cesped natural",
-    Deporte: "Tenis",
-    Precio_Cancha: "$800",
-    Imagenes_Cancha: "https://via.placeholder.com/150",
+    "key": "2",
+    "Nombre_Cancha": "Cancha B",
+    "Dimensiones": "80x40",
+    "Especificaciones": "Cesped natural",
+    "Deporte": "Tenis",
+    "Precio_Cancha": "$800",
+    "Imagenes_Cancha": "https://via.placeholder.com/150"
   },
   {
-    key: "3",
-    Nombre_Cancha: "Cancha C",
-    Dimensiones: "120x60",
-    Especificaciones: "Cesped sintético",
-    Deporte: "Futbol",
-    Precio_Cancha: "$1200",
-    Imagenes_Cancha: "https://via.placeholder.com/150",
-  },
+    "key": "3",
+    "Nombre_Cancha": "Cancha C",
+    "Dimensiones": "120x60",
+    "Especificaciones": "Cesped sintético",
+    "Deporte": "Futbol",
+    "Precio_Cancha": "$1200",
+    "Imagenes_Cancha": "https://via.placeholder.com/150"
+  }
+]

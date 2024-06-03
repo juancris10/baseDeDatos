@@ -16,7 +16,7 @@
     "Especificaciones": "Cesped sintético",
     "Deporte": "Futbol",
     "Precio_Cancha": "$1000",
-    "Imagenes_Cancha": "https://th.bing.com/th/id/OIP.i9n79q1sI-UcBOrfKnQegwAAAA?rs=1&pid=ImgDetMain"
+    "Imagen_Cancha": "https://th.bing.com/th/id/OIP.i9n79q1sI-UcBOrfKnQegwAAAA?rs=1&pid=ImgDetMain"
   },
   {
     "key": "2",
@@ -25,7 +25,7 @@
     "Especificaciones": "Cesped natural",
     "Deporte": "Tenis",
     "Precio_Cancha": "$800",
-    "Imagenes_Cancha": "https://via.placeholder.com/150"
+    "Imagen_Cancha": "https://via.placeholder.com/150"
   },
   {
     "key": "3",
@@ -34,7 +34,7 @@
     "Especificaciones": "Cesped sintético",
     "Deporte": "Futbol",
     "Precio_Cancha": "$1200",
-    "Imagenes_Cancha": "https://via.placeholder.com/150"
+    "Imagen_Cancha": "https://via.placeholder.com/150"
   }
 ]
 }

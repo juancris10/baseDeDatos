@@ -126,5 +126,117 @@
     "Precio_Cancha": "$1200",
     "Imagen_Cancha": "https://via.placeholder.com/150"
   }
+],
+  "Reserva": [
+    {
+        "id": 1,
+        "nombre_persona": "Juan",
+        "apellido_persona": "Pérez",
+        "DNI": "12345678",
+        "num_telefono": "555-1234",
+        "estado_reserva": "Confirmada",
+        "total_reserva": 100,
+        "hora_reservada": "10:00",
+        "fecha_reservada": "2024-06-01"
+    },
+    {
+        "id": 2,
+        "nombre_persona": "María",
+        "apellido_persona": "González",
+        "DNI": "87654321",
+        "num_telefono": "555-5678",
+        "estado_reserva": "Pendiente",
+        "total_reserva": 150,
+        "hora_reservada": "11:30",
+        "fecha_reservada": "2024-06-02"
+    },
+    {
+        "id": 3,
+        "nombre_persona": "Carlos",
+        "apellido_persona": "Martínez",
+        "DNI": "11223344",
+        "num_telefono": "555-8765",
+        "estado_reserva": "Cancelada",
+        "total_reserva": 200,
+        "hora_reservada": "13:00",
+        "fecha_reservada": "2024-06-03"
+    },
+    {
+        "id": 4,
+        "nombre_persona": "Ana",
+        "apellido_persona": "López",
+        "DNI": "44332211",
+        "num_telefono": "555-4321",
+        "estado_reserva": "Confirmada",
+        "total_reserva": 250,
+        "hora_reservada": "14:30",
+        "fecha_reservada": "2024-06-04"
+    },
+    {
+        "id": 5,
+        "nombre_persona": "Luis",
+        "apellido_persona": "Rodríguez",
+        "DNI": "99887766",
+        "num_telefono": "555-9876",
+        "estado_reserva": "Pendiente",
+        "total_reserva": 300,
+        "hora_reservada": "16:00",
+        "fecha_reservada": "2024-06-05"
+    },
+    {
+        "id": 6,
+        "nombre_persona": "Sofía",
+        "apellido_persona": "Fernández",
+        "DNI": "66778899",
+        "num_telefono": "555-8767",
+        "estado_reserva": "Confirmada",
+        "total_reserva": 120,
+        "hora_reservada": "17:00",
+        "fecha_reservada": "2024-06-06"
+    },
+    {
+        "id": 7,
+        "nombre_persona": "Miguel",
+        "apellido_persona": "García",
+        "DNI": "33445566",
+        "num_telefono": "555-1235",
+        "estado_reserva": "Cancelada",
+        "total_reserva": 180,
+        "hora_reservada": "18:30",
+        "fecha_reservada": "2024-06-07"
+    },
+    {
+        "id": 8,
+        "nombre_persona": "Elena",
+        "apellido_persona": "Hernández",
+        "DNI": "55443322",
+        "num_telefono": "555-5679",
+        "estado_reserva": "Pendiente",
+        "total_reserva": 140,
+        "hora_reservada": "19:00",
+        "fecha_reservada": "2024-06-08"
+    },
+    {
+        "id": 9,
+        "nombre_persona": "Jorge",
+        "apellido_persona": "Ramírez",
+        "DNI": "44556677",
+        "num_telefono": "555-9877",
+        "estado_reserva": "Confirmada",
+        "total_reserva": 160,
+        "hora_reservada": "20:00",
+        "fecha_reservada": "2024-06-09"
+    },
+    {
+        "id": 10,
+        "nombre_persona": "Isabel",
+        "apellido_persona": "Torres",
+        "DNI": "22334455",
+        "num_telefono": "555-4322",
+        "estado_reserva": "Pendiente",
+        "total_reserva": 220,
+        "hora_reservada": "21:30",
+        "fecha_reservada": "2024-06-10"
+    }
 ]
 }

@@ -77,7 +77,7 @@
     "Nombre_Cancha": "Cancha C",
     "Dimensiones": "120x60",
     "Especificaciones": "Cesped sintético",
-    "Deporte": "Futbol",
+    "Deporte": "Baloncesto",
     "Precio_Cancha": "$1200",
     "Imagen_Cancha": "https://via.placeholder.com/150"
   },
@@ -122,7 +122,7 @@
     "Nombre_Cancha": "Cancha C",
     "Dimensiones": "120x60",
     "Especificaciones": "Cesped sintético",
-    "Deporte": "Futbol",
+    "Deporte": "Voley",
     "Precio_Cancha": "$1200",
     "Imagen_Cancha": "https://via.placeholder.com/150"
   }

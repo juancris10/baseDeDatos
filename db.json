@@ -244,8 +244,6 @@
               "Contraseña" : "dkakd",
               "Rol" : "Propietario"
   }
-  "Complejo" :[ { "Nombre_Complejo" : "Los Lirios",
-    "Ubicacion": "Maipu 4890"  
-    
-  }]
+  "Complejo" : { "Nombre_Complejo" : "Los Lirios",
+    "Ubicacion": "Maipu 4890" }
 }
